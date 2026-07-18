@@ -1,9 +1,8 @@
 streamlit
-tensorflow
+tensorflow==2.19.0
 numpy
 pandas
 matplotlib
 Pillow
-opencv-python
 scikit-learn
-reportlab
+h5py
