@@ -5,4 +5,4 @@ pandas
 matplotlib
 Pillow
 scikit-learn
-reportlab
+h5py
